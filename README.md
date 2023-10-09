@@ -14,7 +14,7 @@ En bonus, j'ai ajouté à la fin du document un schéma qui résume les différe
 
 
 ▬▬▬▬▬▬▬▬▬▬  QUI SUIS-JE ? ▬▬▬▬▬▬▬▬▬▬
-Salut, moi c’est Arnaud, grand passionné de développement et de nouvelles technologies.J’aimerais, à travers codeur-pro, partager avec vous cette passion.
+Salut, c'est myrieme tabbou, grand passionné de développement et de nouvelles technologies.J’aimerais, à travers codeur-pro, partager avec vous cette passion.
 ➽ en savoir plus: http://codeur-pro.fr/auteur-arnaud-mercier/
 
 
